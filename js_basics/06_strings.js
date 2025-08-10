@@ -24,3 +24,5 @@ console.log(spacename);
 console.log(gamename.trim());
 console.log(gamename.trimEnd());
 
+st
+
